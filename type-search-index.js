@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"itec3030.assignment2","l":"AbstractNewTempSensorAdapter"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"itec3030.assignment2","l":"ConcreteObserver"},{"p":"itec3030.assignment2","l":"Main"},{"p":"itec3030.assignment2","l":"NewTempSensorAdapter"}];updateSearchResults();
